@@ -1,3 +1,6 @@
+# VsCode folder
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -113,7 +116,7 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
-
+conda env export > environment.yml
 # Rope project settings
 .ropeproject
 
